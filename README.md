@@ -3,7 +3,7 @@
 **Hi there I'm 17 year old programmer.**
 
 ![Visitor](https://komarev.com/ghpvc/?username=Akasso73)
-### Tools i use:
+### Tools I use:
 ![VSCode](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079C1?style=flat-square&logo=trello&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-795de1?style=flat-square&logo=obsidian&logoColor=white)
