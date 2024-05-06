@@ -1,13 +1,13 @@
-### 👋🇬🇧 Hi, I’m Akasso73
-### 👋🇵🇱 Cześć, Jestem Akasso73
+# 👋 Hi, I’m Akasso73
+## 👋🇵🇱 Cześć, Jestem Akasso73
 
-## ENG
+#### ENG
 **Hi, I'm Michal and I'm a 17-year-old programmer from Poland. I specialize in Python. I was a graphic designer for ["Helply"](https://www.helplyapp.pl/).**
-## PL
+#### PL
 **Cześć, jestem Michał i jestem 17-letnim programistą z Polski. Specjalizuję się w Pythonie. Byłem grafikiem dla [Helply](https://www.helplyapp.pl/).**
 
 ![Visitor](https://komarev.com/ghpvc/?username=Akasso73)
-### Tools I use/Moje Narzędzia:
+### Tools I use | Moje Narzędzia:
 ![VSCode](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079C1?style=flat-square&logo=trello&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-795de1?style=flat-square&logo=obsidian&logoColor=white)
@@ -15,7 +15,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### My Skills/Moje Umiejętności:
+### My Skills | Moje Umiejętności:
 ![Python](https://img.shields.io/badge/-Python-3f7ca5?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-795de1?style=flat-square&logo=csharp&logoColor=white)
 ![Java Script](https://img.shields.io/badge/-Java_Script-f4e061?style=flat-square&logo=javascript&logoColor=white)
